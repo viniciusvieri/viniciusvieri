@@ -1,7 +1,7 @@
 ### 👋 Olá! tudo bem? Me chamo Vinícius :)
 - 📊 Sou graduando de Ciência de Dados e Integilência Artificial(UFPB) e estou sempre expadindo meus conhecimentos.
 - 👨‍💻 Neste momento, estou aprendendo o máximo e cada vez mais sobre técnicas de Data Science e maneiras de aplicá-las no mercado de trabalho.
-- 📪 Você pode me contatar em viniciusblblbl@gmail.com. Também estou no instagram em '@vieri.vinicius'.
+- 📪 Você pode me contatar em 'contato.viniciusvieri@gmail.com'. Também estou no instagram em '@vieri.vinicius'.
 
 <div align="center">
   <a href="https://github.com/viniciusvieri">
