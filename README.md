@@ -3,10 +3,6 @@
 - 👨‍💻 Neste momento, estou aprendendo o máximo e cada vez mais sobre técnicas de Data Science e maneiras de aplicá-las no mercado de trabalho.
 - 📪 Você pode me mandar um e-mail em -> contato.viniciusvieri@gmail.com 
 
-</div> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvieri&layout=compact&langs_count=7&theme=default"/>
-</div> 
-
  <div style="display: inline_block"><br>
   <img align="center"height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center"height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
