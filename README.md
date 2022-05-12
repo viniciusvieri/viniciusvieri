@@ -7,5 +7,6 @@
 
 - Linguagem Python, C e C++.
 - Uso de bibliotecas em Python para análise de dados como Pandas, Numpy, Matplotlib e Seaborn.
+- SQL e PySpark para bancos de dados.
 - Programação estruturada em C.
 - Programação orientada a objetos em C++.
