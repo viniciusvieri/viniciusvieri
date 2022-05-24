@@ -5,7 +5,7 @@
 
 ### Quais ferramentas eu uso?
 
-- Linguagem Python, C
-- Uso de bibliotecas em Python para análise de dados como Pandas, Numpy, Matplotlib e Seaborn.
-- SQL e PySpark para bancos de dados.
+- Linguagem Python e C.
+- Uso de bibliotecas em Python para análise de dados como Pandas, Numpy, Matplotlib, Seaborn e etc.
+- Acesso e utilização de APIS em Python.
 - Programação estruturada em C.
